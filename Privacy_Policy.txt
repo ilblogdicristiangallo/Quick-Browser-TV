@@ -2,10 +2,10 @@ Privacy Policy for Quick Browser TV
 
 Quick Browser TV does not require account creation and does not intentionally collect personal user information.
 
-The app allows users to browse websites, save favorites locally on the device, and download supported files to local storage. Favorites and downloaded files are stored locally on the user’s device and are not transmitted to external servers by the app itself.
+The app allows users to enter URLs, save links locally on the device, and download supported files to local storage. Favorites and downloaded files are stored locally on the user’s device and are not transmitted to external servers by the app itself.
 
 Quick Browser TV does not include built-in advertising services and does not intentionally share user data with third parties.
 
-Websites accessed through the browser may independently collect data according to their own privacy policies. Users are responsible for reviewing the privacy policies of the websites they visit.
+Websites or file sources accessed through the app may independently collect data according to their own privacy policies. Users are responsible for reviewing the privacy policies of the websites or file sources they access.
 
 If this policy changes in future versions, it will be updated accordingly.
